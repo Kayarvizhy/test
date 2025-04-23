@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("Kayar")
+	printf("Kayarvizhy")
+
 }
